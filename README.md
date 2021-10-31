@@ -1,7 +1,7 @@
 # Introduction: 
 In this project you are required to implement a simple calculator on Basys 3 FPGA boards.
 
-Note: Due to the big size of the project, you should create a new project, and take the uploaded source code.
+Note: Due to the big size of the project, you should create a new project in Vivado, and take the uploaded source code as it is.
 
 # Specifications: 
 You are required to build a simple calculator such that it:
