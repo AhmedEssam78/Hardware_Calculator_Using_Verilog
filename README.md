@@ -1,5 +1,6 @@
 # Introduction: 
 In this project you are required to implement a simple calculator on Basys 3 FPGA boards.
+
 Note: Due to the big size of the project, you should create a new project, and take the uploaded source code.
 
 # Specifications: 
